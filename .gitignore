@@ -6,3 +6,4 @@ logs/
 *.pyc
 *.tar.gz
 *.pem
+.DS_Store
